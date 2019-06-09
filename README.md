@@ -2,6 +2,7 @@
 A brief git course that held up at IUST
 ## Switch to presentation branch to download slides
 ## Switch to Commonsyntaxes branch to see some commands told in workshop
+## Switch to TeamWorkByGit branch for a little bit advanced information about team working and collaboration in git.
 
 ## Here is some useful links:
 * How to write good commits:
