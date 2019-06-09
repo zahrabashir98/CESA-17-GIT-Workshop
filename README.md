@@ -1,5 +1,5 @@
 # CESA-17-GIT-Workshop
-A brief git course that held up at IUST
+Some brief git courses that held up at IUST by me (Sep2018, June 2019)
 ## Switch to presentation branch to download slides
 ## Switch to Commonsyntaxes branch to see some commands told in workshop
 ## Switch to TeamWorkByGit branch for a little bit advanced information about team working and collaboration in git.
